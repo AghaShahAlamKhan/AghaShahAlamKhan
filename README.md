@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AghaShahAlamKhan
-- 👀 I’m interested in Programmin in R and Python
+- 👀 I’m interested in Programming in R and Python
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on R and python
 - 📫 How to reach me alamagha@gmail.com
